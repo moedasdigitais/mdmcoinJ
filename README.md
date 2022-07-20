@@ -1,11 +1,11 @@
 [![Maven Central](https://img.shields.io/maven-central/v/com.wavesplatform/wavesj.svg?label=Maven%20Central)](https://search.maven.org/artifact/com.wavesplatform/wavesj)
 
-# WavesJ
+# MdmcoinJ
 A Java library for interacting with the Waves blockchain.
 
 Supports node interaction, offline transaction signing and creating addresses and keys.
 
-## Using WavesJ in your project
+## Using MdmcoinJ in your project
 Use the codes below to add WavesJ as a dependency for your project.
 
 ##### Requirements:
